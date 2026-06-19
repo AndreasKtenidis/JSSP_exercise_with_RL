@@ -1,0 +1,56 @@
+[
+  {
+    "source_file": "Synthetic_instances_10x10_5000.pkl",
+    "output_file": "Synthetic_instances_10x10_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  },
+  {
+    "source_file": "Synthetic_instances_15x15_5000.pkl",
+    "output_file": "Synthetic_instances_15x15_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  },
+  {
+    "source_file": "Synthetic_instances_20x15_5000.pkl",
+    "output_file": "Synthetic_instances_20x15_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  },
+  {
+    "source_file": "Synthetic_instances_20x20_5000.pkl",
+    "output_file": "Synthetic_instances_20x20_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  },
+  {
+    "source_file": "Synthetic_instances_30x15_5000.pkl",
+    "output_file": "Synthetic_instances_30x15_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  },
+  {
+    "source_file": "Synthetic_instances_30x20_5000.pkl",
+    "output_file": "Synthetic_instances_30x20_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  },
+  {
+    "source_file": "Synthetic_instances_50x15_5000.pkl",
+    "output_file": "Synthetic_instances_50x15_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  },
+  {
+    "source_file": "Synthetic_instances_50x20_5000.pkl",
+    "output_file": "Synthetic_instances_50x20_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  },
+  {
+    "source_file": "Synthetic_instances_6x6_5000.pkl",
+    "output_file": "Synthetic_instances_6x6_10.pkl",
+    "selected_instances": 10,
+    "source_instances": 5000
+  }
+]
